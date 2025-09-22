@@ -1,4 +1,4 @@
-Assignment 2 – Syntax, Semantics, and Memory Management
+Syntax, Semantics, and Memory Management
 
 Course: MSCS 632 – Advanced Programming Languages
 Student: Anushka Nanaware
